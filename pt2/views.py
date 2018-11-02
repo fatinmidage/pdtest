@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import request
-import pandas as pd
+# import pandas as pd
 
 
 # Create your views here.
